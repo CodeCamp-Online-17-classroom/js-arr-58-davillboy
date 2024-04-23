@@ -12,3 +12,4 @@ const persons = [
 ];
 // expexted result: { M: ['John', 'Jody', 'Sid'], F: ['Susan', 'Kate'] }
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
